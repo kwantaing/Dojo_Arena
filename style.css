@@ -1,0 +1,42 @@
+.container{
+    margin:40px 25px;
+    background-color:black;
+    border:8px solid gray;
+    height:800px;
+    text-align:center;
+    position:relative;
+    background-size:1500px 800px;
+
+}
+.menu{
+    vertical-align:middle;
+    background-color:gray;
+    border:5px solid rgb(105, 105, 105);
+    position:absolute;
+    top:305px;
+    left:456px;
+    height:200px;
+    width: 280px;
+    border-radius:20px;
+}
+button{
+    height:30px;
+    width:80px;
+    margin:3px;
+    border-radius:3px;
+}
+.displayChar{
+    width:300px;
+    height:380px;
+    background-repeat:no-repeat;
+}
+.p1{
+    position:absolute;
+    top:394px;
+    left:100px;
+}
+.p2{
+    position:absolute;
+    top:394px;
+    right:100px;
+}
